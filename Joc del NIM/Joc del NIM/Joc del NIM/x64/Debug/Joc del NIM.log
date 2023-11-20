@@ -1,0 +1,3 @@
+﻿  Joc del NIM.cpp
+F:\Programació\practiques\Joc del NIM\Joc del NIM\Joc del NIM\Joc del NIM.cpp(20,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Joc del NIM.vcxproj -> F:\Programació\practiques\Joc del NIM\Joc del NIM\x64\Debug\Joc del NIM.exe
